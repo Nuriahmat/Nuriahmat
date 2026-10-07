@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Kuerban Nuri - AI engineer, agents and on-prem RAG">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#FCFCFA" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#dots)"/>
+  <rect x="48" y="48" width="8" height="224" rx="4" fill="#60A5FA"/>
+  <text x="80" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" fill="#93C5FD">~/Nuriahmat</text>
+  <text x="80" y="178" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="48" font-weight="700" fill="#FCFCFA">Kuerban Nuri</text>
+  <text x="80" y="228" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="24" fill="#E5E7EB">AI Engineer · LangGraph · GraphRAG · On-prem RAG · Multi-Agent</text>
+  <text x="80" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#9CA3AF">San Francisco · EN / JP / ZH · shipping production agents</text>
+</svg>
