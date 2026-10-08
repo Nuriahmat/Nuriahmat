@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Kuerban Nuri.</h1>
 
 <p align="center">
-  <strong>Senior AI Engineer &amp; Tech Lead in San Francisco.</strong><br/>
+  <strong>AI Engineer &amp; Tech Lead in San Francisco.</strong><br/>
   I ship production agent systems: on-prem RAG, LangGraph multi-agent workflows,<br/>
   and hybrid local / frontier routing that does not leak PII.
 </p>
